@@ -1,9 +1,6 @@
 h1 {
   color: SaddleBrown;
 body {
-  background-image: url("obliv.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: none;
+  background-color: red
 }
   
